@@ -1,0 +1,35 @@
+* {
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+p {
+    font-size: small ;
+}
+
+/* .text {
+    color: blue ;
+}
+
+#paragraph-1 {
+    color: red;
+} */
+
+/* .sub-section p {
+    color: yellowgreen;
+}
+
+.paragraph-1~p{
+    color: darkcyan;
+} */
+
+.nav-container > a {
+    color: brown;
+}
+
+.main-container > h1, p {
+    color: red;
+}
+
+.cover {
+    width: 100%;
+}
