@@ -60,7 +60,7 @@ p > span {
 .cover {
     width: 100%;
 } */
-
+/* 
 * {
     color: green;
 }
@@ -84,4 +84,83 @@ ul>li {
 
 h1 {
     color: inherit;
+} */
+
+
+/* .descendent~p {
+    color: darkgrey;
+} */
+/* 
+div {
+    height: 50px;
+    width: 100%;
+    align-content: center;
+    color: white;
+}
+
+.forteen {
+    background-color: rgba(0, 0, 255, 0.7); 
+}
+
+.thirteen{
+    background-color: rgba(0, 0, 255, 0.6 ); 
+}
+
+.twelve {
+    background-color: rgba(0, 0, 255, 0.5); 
+}
+
+.eleven {
+    background-color: rgba(0, 0, 255, 0.4); 
+}
+
+.ten {
+    background-color: rgba(0, 0, 255, 0.3); 
+}
+
+.nine {
+    background-color: rgba(0, 0, 255, 0.2); 
+}
+.eight {
+    background-color: rgba(0, 0, 255, 0.1); 
+}
+
+.seven {
+    background-color: palegreen;
+}
+
+.six {
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+.five {
+    background-color: rgba(255, 0, 0, 0.2);
+}
+
+.four {
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.three {
+    background-color: rgba(255, 0, 0, 0.4);
+}
+
+.two {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.one {
+    background-color: rgba(255, 0, 0, 0.6);
+}
+
+.zero {
+    background-color: rgba(255, 0, 0, 0.7);
+} */
+
+.font-container {
+    font-size: 32px;
+}
+.main-heading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100%;
 }
